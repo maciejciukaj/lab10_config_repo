@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
         - name: lab10-app
-          image: maciejciukaj/lab10-app:1.0.2
+          image: maciejciukaj/lab10-app:1.0.0
